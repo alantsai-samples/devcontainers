@@ -16,7 +16,8 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot",
-				"vmware.vscode-boot-dev-pack"
+				"vmware.vscode-boot-dev-pack",
+				"ritwickdey.LiveServer"
 			],
 			"settings": {
 				"java.server.launchMode": "Standard"
