@@ -9,7 +9,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-toolsai.jupyter",
-				"ms-toolsai.datawrangler"
+				"ms-toolsai.datawrangler",
+				"shd101wyy.markdown-preview-enhanced"
 			]
 		}
 	},
