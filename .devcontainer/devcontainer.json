@@ -10,7 +10,8 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"ms-toolsai.datawrangler",
-				"shd101wyy.markdown-preview-enhanced"
+				"shd101wyy.markdown-preview-enhanced",
+				"ritwickdey.LiveServer"
 			]
 		}
 	},
