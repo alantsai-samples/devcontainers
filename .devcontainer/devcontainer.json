@@ -11,7 +11,8 @@
 				"ms-toolsai.jupyter",
 				"ms-toolsai.datawrangler",
 				"shd101wyy.markdown-preview-enhanced",
-				"ms-azuretools.vscode-azurefunctions"
+				"ms-azuretools.vscode-azurefunctions",
+				"ritwickdey.LiveServer"
 			]
 		}
 	},
