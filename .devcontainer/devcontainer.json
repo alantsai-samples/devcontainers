@@ -10,7 +10,8 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"ms-toolsai.datawrangler",
-				"shd101wyy.markdown-preview-enhanced"
+				"shd101wyy.markdown-preview-enhanced",
+				"ms-azuretools.vscode-azurefunctions"
 			]
 		}
 	},
@@ -22,7 +23,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip install requests beautifulsoup4 pandas scrapy",
+	"postCreateCommand": "chmod +x .devcontainer/postCreateCommand.sh && ./.devcontainer/postCreateCommand.sh",
 	"features": {
 		"ghcr.io/devcontainers/features/azure-cli:1": {},
 		"ghcr.io/devcontainers/features/docker-in-docker:2": {}
